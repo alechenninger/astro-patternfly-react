@@ -1,0 +1,22 @@
+{
+  "name": "@example/framework-react",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "devDependencies": {
+    "@astrojs/react": "^0.2.0",
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "astro": "^1.0.0-beta.63"
+  },
+  "dependencies": {
+    "@patternfly/react-core": "^4.224.1",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
+  }
+}
